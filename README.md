@@ -1,1 +1,1 @@
-## A Streamlit frontend in Python for Airbnb database 2025
+A Streamlit frontend in Python for Airbnb database 2025
